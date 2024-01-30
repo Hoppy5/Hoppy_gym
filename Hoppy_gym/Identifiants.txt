@@ -1,0 +1,9 @@
+Database : jimeli
+
+Utilisateur : Hoppy
+Email : hoppy@gmail.com
+Mot de passe : 1234
+
+
+bootstrap : cdn link
+IDE : vs code, phpstorm, sublime text 4, etc.
